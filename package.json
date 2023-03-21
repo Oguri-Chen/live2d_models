@@ -1,0 +1,25 @@
+{
+  "name": "akilar-live2dapi",
+  "version": "1.0.6",
+  "description": "看板娘模型资源文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akilarlxh/live2d_api.git"
+  },
+  "keywords": [
+    "live2d",
+    "model",
+    "api",
+    "assets"
+  ],
+  "author": "akilarlxh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akilarlxh/live2d_api/issues"
+  },
+  "homepage": "https://github.com/Akilarlxh/live2d_api#readme"
+}
